@@ -1,4 +1,4 @@
-module github.com/kr/pty
+module github.com/lvyong1985/pty
 
 go 1.12
 
